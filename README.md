@@ -23,3 +23,27 @@
 - 🎉 I have successfully completed over **4 projects** on **Frontend Mentor** and shared my code with others.
 - 🤝 I have provided **feedback** on projects on Frontend Mentor website.
 - 🏆 I've been on **top-3 positions** on [Front End Mentor's Wall of Fame](https://www.frontendmentor.io/wall-of-fame).
+
+<br>
+
+<h2 align="center"> 🤝 Connect with me</h2>
+
+<p align="center">
+Looking to convert a <strong>Figma design</strong> into a web app or want to make Frontend Modern technologies project? Feel free to contact me. I'm here to make your vision come alive, and I promise to bring a friendly and charismatic touch to our collaboration.
+</p>
+
+<p align="center">
+Let's turn your ideas into reality!
+</p>
+<br />
+
+<div align = "center">
+    
+[![Gmail: Bishal SIngh Deo](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bishalsinghdeo5@gmail.com)](mailto:bishalsinghdeo5@gmail.com)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/Bishalsnghd07)](https://www.frontendmentor.io/profile/Bishalsnghd07)&nbsp;
+[![Linkedin: Bishal SIngh Deo](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bishal-singh-deo)](https://www.linkedin.com/in/bishal-singh-deo)
+</div>
+<br>
+<div align = "center">
+  <p><strong>Thank you</strong> for visiting my profile! 😊</p>
+</div>
