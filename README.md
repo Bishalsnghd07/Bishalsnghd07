@@ -39,9 +39,10 @@ Let's turn your ideas into reality!
 
 <div align = "center">
     
-[![Gmail: Bishal SIngh Deo](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bishalsinghdeo5@gmail.com)](mailto:bishalsinghdeo5@gmail.com)&nbsp;
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@frontendfineness985/videos)&nbsp;
+[![Gmail: Bishal Singh Deo](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bishalsinghdeo5@gmail.com)](mailto:bishalsinghdeo5@gmail.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/Bishalsnghd07)](https://www.frontendmentor.io/profile/Bishalsnghd07)&nbsp;
-[![Linkedin: Bishal SIngh Deo](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bishal-singh-deo)](https://www.linkedin.com/in/bishal-singh-deo)
+[![Linkedin: Bishal Singh Deo](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bishal-singh-deo)](https://www.linkedin.com/in/bishal-singh-deo)
 </div>
 <br>
 <div align = "center">
