@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
 
-- I'm a **Frontend Developer** with ***11 months*** of professional experience and ***4 years*** of hands-on experience🧑‍💻
+- I'm a **Frontend Developer** with ***1 year*** of professional experience and ***4 years*** of hands-on experience🧑‍💻
 - Take a look at my **projects** on [Frontend Mentor](https://www.frontendmentor.io/home/my-challenges?tab=completed)🔍
 - [Bishal Singh Deo](https://portfolio-bishal-ts94.vercel.app/) is my **portfolio** web app.🧑‍🏫
 - I'm currently working on ***Pixel Perfection*** and deep dive into ***JavaScript***📑
