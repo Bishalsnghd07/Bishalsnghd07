@@ -7,7 +7,7 @@
 - I'm a **Frontend Developer** with ***1 year*** of professional experience and ***4 years*** of hands-on experience🧑‍💻
 - Take a look at my **projects** on [Frontend Mentor](https://www.frontendmentor.io/home/my-challenges?tab=completed)🔍
 - [Bishal Singh Deo](https://portfolio-bishal-ts94.vercel.app/) is my **portfolio** web app.🧑‍🏫
-- I'm currently working on ***Pixel Perfection*** and deep dive into ***JavaScript***📑
+- I'm currently working on ***Full-Stack Development*** and deep dive into ***JavaScript***📑
 - I’m looking for **job** and **freelance work**👩‍🏭
 <br>
 
