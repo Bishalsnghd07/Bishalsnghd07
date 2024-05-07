@@ -13,7 +13,7 @@
 
 ## 🏆 Goals:
 
-- 🚀 Gain experience in developing frontend applications using modern technologies **[Next.js](https://nextjs.org/)** and **[tw elements](https://tw-elements.com/)**.
+- 🚀 Gain experience in developing frontend applications using modern technologies **[Next.js](https://nextjs.org/)**,  **[tw elements](https://tw-elements.com/)** and many more.
 - 🌐 Improve my knowledge of web accessibility standards, **modern technologies** and integrate them into my projects.
 - 🎨 Acquire new **tools** and **techniques** to enhance my skills in frontend development, thereby progressing towards **professionalism**.
 - 🧑‍💻 Deeply engaged in learning ***JavaScript***, while simultaneously refining skills for ***Pixel Perfection***.
